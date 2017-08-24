@@ -1,0 +1,15 @@
+---
+title: "Lab 5 Report"
+author: "Your name here"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(hanoverbase)
+```
+
+**Use this section (replacing this line) to create your Lab 5 report.**
